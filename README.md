@@ -1,4 +1,4 @@
-# Hi, I'm Raelene Valeska Dookkoo 👋
+# Hi, I'm Raelene Valeska Dookkoo 
 
 🎓 Final-year BIS Information Science (Informatics) | University of Pretoria  
 🌍 Based in Pretoria, South Africa  
@@ -38,18 +38,6 @@ I track everything: university modules, personal projects, and ideas on the
 backburner - on a live Kanban board.
 
 👉 **[View my Project Board](https://github.com/users/RaeleneV/projects/2/views/1)** 
-
----
-
-## 🌟 Academic Highlights
-
-| Module | Result | What it was |
-|--------|--------|-------------|
-| JCP 202 |  Distinction ⭐ | Community-based project — team leader |
-| INL 220 |  Distinction | Strategic knowledge management |
-| INF 261 |  Distinction | Advanced information systems |
-| AIM 111 |  Distinction | Academic information management |
-| INF 272 | Pass | Full-stack web dev, Git, JavaScript, MVC |
 
 ---
 
